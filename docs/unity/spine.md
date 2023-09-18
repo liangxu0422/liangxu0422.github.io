@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spine
-parent: Unity主页
+parent: Unity
 nav_order: 1
 ---
 
